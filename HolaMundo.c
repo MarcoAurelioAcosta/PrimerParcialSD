@@ -6,6 +6,6 @@
 int main()
 {
     printf( "Hola,esta es una practica de impresion en lenguaje c" );
-
+    printf("Modificacion para el primer parcial,nueva impresion");
     return 0;
 }
