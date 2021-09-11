@@ -1,0 +1,11 @@
+/* Ejercicio del primer parcial de Sistemas Distribuidos*/
+
+
+#include <stdio.h>
+
+int main()
+{
+    printf( "Hola,esta es una practica de impresion en lenguaje c" );
+
+    return 0;
+}
